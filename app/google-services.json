@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "800205554583",
+    "firebase_url": "https://smyrna-8c038-default-rtdb.firebaseio.com",
+    "project_id": "smyrna-8c038",
+    "storage_bucket": "smyrna-8c038.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800205554583:android:3a7655d089a6389b207ad2",
+        "android_client_info": {
+          "package_name": "com.sgo.SmyrnaGlobalOutreach"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHDDtVj9MyWOY50Ug3U1wyHOyKcLAIj9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

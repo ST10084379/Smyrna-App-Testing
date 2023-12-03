@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Farming"
+        android:id="@+id/farmBottomNav"
+        android:icon="@drawable/ic_produce"/>
+    <item android:title="Venue"
+        android:id="@+id/VenueBottomNav"
+        android:icon="@drawable/baseline_other_houses_24"/>
+    <item android:title="Rehabilitation"
+        android:id="@+id/rehabBottomNav"
+        android:icon="@drawable/ic_rehab"/>
+</menu>
